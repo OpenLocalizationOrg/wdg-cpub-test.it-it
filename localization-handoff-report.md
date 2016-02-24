@@ -6,15 +6,15 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [wdg-cpub-test\images\github-logo.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4abefb20ff3250317127c359a257faac4bfd8b27/wdg-cpub-test/images/github-logo.png) | HandedOffSuccess | [Details](#90d7dca36f340986a0c7b98525226d3fd282aa6a19)
- [wdg-cpub-test\images\markdown-logo.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4abefb20ff3250317127c359a257faac4bfd8b27/wdg-cpub-test/images/markdown-logo.png) | HandedOffSuccess | [Details](#ced6981729e25a31e25e8bbac32f2a822851abb021)
+ [wdg-cpub-test\images\github-logo.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7d4c02ccac7ff3a9aa5791877bd7afafc27a66e4/wdg-cpub-test/images/github-logo.png) | HandedOffSuccess | [Details](#90d7dca36f340986a0c7b98525226d3fd282aa6a19)
+ [wdg-cpub-test\images\markdown-logo.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7d4c02ccac7ff3a9aa5791877bd7afafc27a66e4/wdg-cpub-test/images/markdown-logo.png) | HandedOffSuccess | [Details](#ced6981729e25a31e25e8bbac32f2a822851abb021)
 
 ## Item Details
-##### <a name='90d7dca36f340986a0c7b98525226d3fd282aa6a19'></a> Source: [wdg-cpub-test\images\github-logo.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4abefb20ff3250317127c359a257faac4bfd8b27/wdg-cpub-test/images/github-logo.png)
+##### <a name='90d7dca36f340986a0c7b98525226d3fd282aa6a19'></a> Source: [wdg-cpub-test\images\github-logo.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7d4c02ccac7ff3a9aa5791877bd7afafc27a66e4/wdg-cpub-test/images/github-logo.png)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [90d7dca36f340986a0c7b98525226d3fd282aa6a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/21e4bec823c888faf2f558bb15faba2413f1b942/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.it-it/master/90d7dca36f340986a0c7b98525226d3fd282aa6a.png)
-* Handoff Datetime: 2016-02-24 05:24:56
+* Handoff Datetime: 2016-02-24 05:35:23
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -23,11 +23,11 @@
 * Dependency From: wdg-cpub-test\Welcome.md
 * [Back to Top](#report-top)
 
-##### <a name='ced6981729e25a31e25e8bbac32f2a822851abb021'></a> Source: [wdg-cpub-test\images\markdown-logo.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4abefb20ff3250317127c359a257faac4bfd8b27/wdg-cpub-test/images/markdown-logo.png)
+##### <a name='ced6981729e25a31e25e8bbac32f2a822851abb021'></a> Source: [wdg-cpub-test\images\markdown-logo.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7d4c02ccac7ff3a9aa5791877bd7afafc27a66e4/wdg-cpub-test/images/markdown-logo.png)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [ced6981729e25a31e25e8bbac32f2a822851abb0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/21e4bec823c888faf2f558bb15faba2413f1b942/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.it-it/master/ced6981729e25a31e25e8bbac32f2a822851abb0.png)
-* Handoff Datetime: 2016-02-24 05:24:56
+* Handoff Datetime: 2016-02-24 05:35:23
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
