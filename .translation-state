@@ -1,0 +1,150 @@
+{
+  "LastProcessedCommit": "4ed288730ea10c4410d8ad99956c112ac644f641",
+  "LastTranslatedCommit": null,
+  "Items": {
+    "0252b866a2d0c048b6a643cd9e48e006d15cf46c": {
+      "FileHash": "0252b866a2d0c048b6a643cd9e48e006d15cf46c",
+      "SourceFileCommit": "4ed288730ea10c4410d8ad99956c112ac644f641",
+      "SourceFilePath": "wdg-cpub-test\\test-xliff-2.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "wdg-cpub-test\\test-xliff-2.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.it-it\\master\\test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.it-it.xlf",
+      "HandoffFileCommit": "21e4bec823c888faf2f558bb15faba2413f1b942",
+      "HandoffDateTime": "2016-02-24T05:06:21.3466946Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "1a4983ce48e441c39272f65d1655d8c7ca2b4970": {
+      "FileHash": "1a4983ce48e441c39272f65d1655d8c7ca2b4970",
+      "SourceFileCommit": "4ed288730ea10c4410d8ad99956c112ac644f641",
+      "SourceFilePath": "wdg-cpub-test\\TOC.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "wdg-cpub-test\\TOC.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.it-it\\master\\TOC.a9ee67cb4f35ab2cb1a9b412181346e45899f313.it-it.xlf",
+      "HandoffFileCommit": "21e4bec823c888faf2f558bb15faba2413f1b942",
+      "HandoffDateTime": "2016-02-24T05:06:21.3466946Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "29b6d04af51c8a26332a452e3145c0eee5e98f90": {
+      "FileHash": "29b6d04af51c8a26332a452e3145c0eee5e98f90",
+      "SourceFileCommit": "4ed288730ea10c4410d8ad99956c112ac644f641",
+      "SourceFilePath": "wdg-cpub-test\\Welcome.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "wdg-cpub-test\\Welcome.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.it-it\\master\\Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.it-it.xlf",
+      "HandoffFileCommit": "21e4bec823c888faf2f558bb15faba2413f1b942",
+      "HandoffDateTime": "2016-02-24T05:06:21.3466946Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "90d7dca36f340986a0c7b98525226d3fd282aa6a": {
+      "FileHash": "90d7dca36f340986a0c7b98525226d3fd282aa6a",
+      "SourceFileCommit": "4ed288730ea10c4410d8ad99956c112ac644f641",
+      "SourceFilePath": "wdg-cpub-test\\images\\github-logo.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\Welcome.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\images\\github-logo.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.it-it\\master\\90d7dca36f340986a0c7b98525226d3fd282aa6a.png",
+      "HandoffFileCommit": "21e4bec823c888faf2f558bb15faba2413f1b942",
+      "HandoffDateTime": "2016-02-24T05:06:21.3466946Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "ced6981729e25a31e25e8bbac32f2a822851abb0": {
+      "FileHash": "ced6981729e25a31e25e8bbac32f2a822851abb0",
+      "SourceFileCommit": "4ed288730ea10c4410d8ad99956c112ac644f641",
+      "SourceFilePath": "wdg-cpub-test\\images\\markdown-logo.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "wdg-cpub-test\\Welcome.md"
+      ],
+      "FilePathList": [
+        "wdg-cpub-test\\images\\markdown-logo.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.it-it\\master\\ced6981729e25a31e25e8bbac32f2a822851abb0.png",
+      "HandoffFileCommit": "21e4bec823c888faf2f558bb15faba2413f1b942",
+      "HandoffDateTime": "2016-02-24T05:06:21.3466946Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    }
+  }
+}
