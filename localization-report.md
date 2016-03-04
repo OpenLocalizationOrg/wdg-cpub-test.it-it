@@ -5,13 +5,13 @@
  -------- | ----- 
  Total Files | 818
 [ Handoff Failed Files ](#handoff-failed-list)| 2
-[ Handoff Success Files ](#handoff-success-list)| 552
+[ Handoff Success Files ](#handoff-success-list)| 551
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
-[ Ignored Files ](#ignored-list)| 264
+[ Ignored Files ](#ignored-list)| 265
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
  Source File | Status | Details 
@@ -29,7 +29,6 @@
  [wdg-cpub-test\domars\images\Browser_Edit_Button_Screen_Shot.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/domars/images/Browser_Edit_Button_Screen_Shot.png) | HandedOffSuccess | [Details](#36f650b486398eec8dda23bcce6de967a49b842514)
  [wdg-cpub-test\domars\images\Browser_New_Pull_Request_Screen_Shot.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/domars/images/Browser_New_Pull_Request_Screen_Shot.png) | HandedOffSuccess | [Details](#f43cbe8759da606676de094fd0024cb7c86551ec15)
  [wdg-cpub-test\domars\images\Browser_Pull_Request_Screen_Shot.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/domars/images/Browser_Pull_Request_Screen_Shot.png) | HandedOffSuccess | [Details](#61d96a22a5f72b0e5f41de91f1ec3320f0f9888e16)
- [wdg-cpub-test\get-app-acquisitions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c89c534850c40dc6ceb0a989e36aee8b6392e033/wdg-cpub-test/get-app-acquisitions.md) | HandedOffSuccess | [Details](#809df2184bbc1de9d0ebe9363e414005a389ad1917)
  [wdg-cpub-test\iawilt\iawilt_test\test.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/370b605422ee22478e3ef03f25bb471425eabd16/wdg-cpub-test/iawilt/iawilt_test/test.md) | HandedOffSuccess | [Details](#d95b5b3cbef2c509c1ba71b6aa0160e169ca861319)
  [wdg-cpub-test\images\github-logo.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/images/github-logo.png) | HandedOffSuccess | [Details](#90d7dca36f340986a0c7b98525226d3fd282aa6a20)
  [wdg-cpub-test\images\jasgro\pigeon.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/images/jasgro/pigeon.png) | HandedOffSuccess | [Details](#51b695b5f279ee59c19fa59c6b5b4b9ed521ef8e21)
@@ -598,6 +597,7 @@
  [Tools\NuGet\Nuget.Config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/Tools/NuGet/Nuget.Config) | Ignored | [Details](#37d5a2d0c8a81313cf7e92800e699f2f86a9f9f97)
  [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/Tools/NuGet/nuget.exe) | Ignored | [Details](#7469c905e04001f8250137d2da57bbc7bec2d3588)
  [wdg-cpub-test\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/docfx.json) | Ignored | [Details](#ef46e7227eb5de88f180c82961fdc8c6732f6dbf10)
+ [wdg-cpub-test\get-app-acquisitions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/get-app-acquisitions.md) | Ignored | [Details](#f02a8b2e2ceca832cac95f5d3918bfa8327ff5fe17)
  [wdg-cpub-test\iawilt\iawilt_test\Ben test](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/iawilt/iawilt_test/Ben test) | Ignored | [Details](#eff8f567d06e11d393836c1fbf24b220fabbd06118)
  [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/App.xaml) | Ignored | [Details](#ba02637e281399d6f7bd6a5a406d990f6070a3a5156)
  [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/App.xaml.cs) | Ignored | [Details](#f8d6cc4b4dd300d5e89e1458ffbe42229f6d71ea157)
@@ -1063,12 +1063,12 @@
 * Dependency From: wdg-cpub-test\domars\Directions_To_Update_Existing_Topic_Using_Browser.md
 * [Back to Top](#report-top)
 
-##### <a name='809df2184bbc1de9d0ebe9363e414005a389ad1917'></a> Source: [wdg-cpub-test\get-app-acquisitions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c89c534850c40dc6ceb0a989e36aee8b6392e033/wdg-cpub-test/get-app-acquisitions.md)
-* Status: HandedOffSuccess
+##### <a name='f02a8b2e2ceca832cac95f5d3918bfa8327ff5fe17'></a> Source: [wdg-cpub-test\get-app-acquisitions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/get-app-acquisitions.md)
+* Status: Ignored
 * Target File: 
-* Handoff File: [get-app-acquisitions.2c261632474f731870e246e617ee9e9ab23ae2e8.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/8964eea59dd679c177380f41161a4ee5cb7afc3c/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.it-it/master/get-app-acquisitions.2c261632474f731870e246e617ee9e9ab23ae2e8.it-it.xlf)
-* Handoff Datetime: 2016-03-04 13:23:17
-* Handoff Reason: Include
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
