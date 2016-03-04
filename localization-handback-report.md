@@ -1,26 +1,11 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [wdg-cpub-test\testhtml.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/testhtml.md) | InSyncHandedBackSuccess | [Details](#e416bf85537540262613086313bb91f4f45cd31a747)
 
 ## Item Details
-##### <a name='e416bf85537540262613086313bb91f4f45cd31a747'></a> Source: [wdg-cpub-test\testhtml.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/testhtml.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [wdg-cpub-test\testhtml.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.it-it/blob/c91db0af759b786a77d6e65044f2914517e05be9/wdg-cpub-test/testhtml.md)
-* Handoff File: [testhtml.a5059cd2abaa4519b328ce39518d5ebfcd6b4fc0.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/111b31a76c5f0a41058e1a587fb170adc14c1b52/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.it-it/master/testhtml.a5059cd2abaa4519b328ce39518d5ebfcd6b4fc0.it-it.xlf)
-* Handoff Datetime: 2016-03-04 17:10:27
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [testhtml.a5059cd2abaa4519b328ce39518d5ebfcd6b4fc0.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/31a2244c7affdafbc8177e43584bfe6ce8487eaf/ol-handback/OpenLocalizationOrg/wdg-cpub-test.it-it/master/testhtml.a5059cd2abaa4519b328ce39518d5ebfcd6b4fc0.it-it.xlf)
-* Handback Datetime: 2016-03-04 17:37:40
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
