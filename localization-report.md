@@ -29778,6 +29778,7 @@
 * Current Target File: [wdg-cpub-test\testhtml.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.it-it/blob/c91db0af759b786a77d6e65044f2914517e05be9/wdg-cpub-test/testhtml.md)
 * Current Handback File: [testhtml.a5059cd2abaa4519b328ce39518d5ebfcd6b4fc0.it-it.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handback-test/blob/31a2244c7affdafbc8177e43584bfe6ce8487eaf/ol-handback/OpenLocalizationOrg/wdg-cpub-test.it-it/master/testhtml.a5059cd2abaa4519b328ce39518d5ebfcd6b4fc0.it-it.xlf)
 * Current Handback Datetime: 2016-03-04 17:37:40
+* Bilingual Error:[bilingual_uploading_failed](#007206c8ebe98d26c62e908fea231470cccbd2b42263bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
 ##### <a name='5810d7bc839c7c1efa60f960dd71475c986eae7d2262'></a> Source: [wdg-cpub-test\test-xliff-2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/174bb04cd8a312735024d4ae92a2bfd3cc8c2f9e/wdg-cpub-test/test-xliff-2.md)
