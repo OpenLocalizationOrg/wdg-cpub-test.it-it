@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "afa18e6cdf2bed8d07fbc88bb9ecdd46de51a726",
-  "LastTranslatedCommit": "c91db0af759b786a77d6e65044f2914517e05be9",
+  "LastTranslatedCommit": "d0a974f9af768775d3c15ffd4ae38673a443f269",
   "LastTansformerVersion": null,
   "Items": {
     "0252b866a2d0c048b6a643cd9e48e006d15cf46c": {
@@ -778,9 +778,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-11-04T20:22:06.7085083Z",
+      "HandbackException": {
+        "internal_error_code": "cache_file_not_found",
+        "internal_error_message": "The skeleton or source cache file of fa27b37a6be2f8e0887ce2a56559c5c4c943fdac is not found.",
+        "internal_error_retriable": false,
+        "exception_message": "The skeleton or source cache file of fa27b37a6be2f8e0887ce2a56559c5c4c943fdac is not found.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": "ol-archive\\en-us.wdg-cpub-test\\wdg-cpub-test\\lizross\\available_policies.xlf",
       "ArchiveFileCommit": "c5b427486768c1324f561e1004d7c5a44c0f3c40",

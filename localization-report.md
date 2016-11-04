@@ -7,8 +7,8 @@
 [ Handoff Failed Files ](#handoff-failed-list)| 0
 [ Handoff Success Files ](#handoff-success-list)| 1436
 [ Archive Failed Files ](#archive-failed-list)| 0
-[ Archive Success Files ](#archive-success-list)| 142
-[ Handback Failed Files ](#handback-failed-list)| 0
+[ Archive Success Files ](#archive-success-list)| 141
+[ Handback Failed Files ](#handback-failed-list)| 1
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
 [ Ignored Files ](#ignored-list)| 894
@@ -1517,7 +1517,6 @@
  [wdg-cpub-test\joshbax\HelloWorld3.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/afa18e6cdf2bed8d07fbc88bb9ecdd46de51a726/wdg-cpub-test/joshbax/HelloWorld3.md) | ArchivedSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d78556233)
  [wdg-cpub-test\joshbax\HelloWorld4.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/afa18e6cdf2bed8d07fbc88bb9ecdd46de51a726/wdg-cpub-test/joshbax/HelloWorld4.md) | ArchivedSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d78556234)
  [wdg-cpub-test\joshbax\HelloWorld5.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/afa18e6cdf2bed8d07fbc88bb9ecdd46de51a726/wdg-cpub-test/joshbax/HelloWorld5.md) | ArchivedSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d78556235)
- [wdg-cpub-test\lizross\available_policies.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/370b605422ee22478e3ef03f25bb471425eabd16/wdg-cpub-test/lizross/available_policies.md) | ArchivedSuccess | [Details](#fa27b37a6be2f8e0887ce2a56559c5c4c943fdac236)
  [wdg-cpub-test\lizross\emie_to_improve_compatibility.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/370b605422ee22478e3ef03f25bb471425eabd16/wdg-cpub-test/lizross/emie_to_improve_compatibility.md) | ArchivedSuccess | [Details](#2df16f5bb8361cadf656d1e62eddf9aba2ceb458237)
  [wdg-cpub-test\lizross\hardware_and_software_requirements.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/370b605422ee22478e3ef03f25bb471425eabd16/wdg-cpub-test/lizross/hardware_and_software_requirements.md) | ArchivedSuccess | [Details](#5d05b35b340b2dfcb038c9e10880f3c5a902c777238)
  [wdg-cpub-test\lizross\images\Edge_EmIE_GroupPolicySiteList.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/afa18e6cdf2bed8d07fbc88bb9ecdd46de51a726/wdg-cpub-test/lizross/images/Edge_EmIE_GroupPolicySiteList.png) | ArchivedSuccess | [Details](#3db200b5df5b492cd6cfcc04c59db9a3bffc1db1239)
@@ -1604,6 +1603,9 @@
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\VsSlnExplorer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/VsSlnExplorer.png) | ArchivedSuccess | [Details](#bd0c6c5437446ea0c01d45fd1049fff8f8b3790c2303)
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [wdg-cpub-test\lizross\available_policies.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/370b605422ee22478e3ef03f25bb471425eabd16/wdg-cpub-test/lizross/available_policies.md) | HandedBackFailed | [Details](#fa27b37a6be2f8e0887ce2a56559c5c4c943fdac236)
 
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
 
@@ -5385,7 +5387,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='fa27b37a6be2f8e0887ce2a56559c5c4c943fdac236'></a> Source: [wdg-cpub-test\lizross\available_policies.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/370b605422ee22478e3ef03f25bb471425eabd16/wdg-cpub-test/lizross/available_policies.md)
-* Status: ArchivedSuccess
+* Status: HandedBackFailed
 * Target File: 
 * Handoff File: [available_policies.ff49108befeca60e0cb8e2a505ce332559123ced.it-it.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/69b9041342014af8a82a2e1b1fbe8caf15dcff6f/ol-handoff/en-us.wdg-cpub-test/available_policies.ff49108befeca60e0cb8e2a505ce332559123ced.it-it.xlf)
 * Handoff Datetime: 2016-10-25 00:20:05
@@ -5393,7 +5395,8 @@
 * Archive File: [available_policies.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/c5b427486768c1324f561e1004d7c5a44c0f3c40/ol-archive/en-us.wdg-cpub-test/wdg-cpub-test/lizross/available_policies.xlf)
 * Archive Datetime: 2016-10-26 21:31:55
 * Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback Datetime: 2016-11-04 20:22:06
+* Handback Error: [cache_file_not_found](#fa27b37a6be2f8e0887ce2a56559c5c4c943fdac236cache_file_not_found)
 * [Back to Top](#report-top)
 
 ##### <a name='2df16f5bb8361cadf656d1e62eddf9aba2ceb458237'></a> Source: [wdg-cpub-test\lizross\emie_to_improve_compatibility.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/370b605422ee22478e3ef03f25bb471425eabd16/wdg-cpub-test/lizross/emie_to_improve_compatibility.md)
@@ -32411,5 +32414,11 @@
 
 
 ## Error Details
+##### <a name='fa27b37a6be2f8e0887ce2a56559c5c4c943fdac236cache_file_not_found'></a> Source: [wdg-cpub-test\lizross\available_policies.md](#fa27b37a6be2f8e0887ce2a56559c5c4c943fdac236)
+* Error Code: cache_file_not_found
+* Error Message: The skeleton or source cache file of fa27b37a6be2f8e0887ce2a56559c5c4c943fdac is not found.
+* Retriable: False
+* Error Details: {"internal_error_code":"cache_file_not_found","internal_error_message":"The skeleton or source cache file of fa27b37a6be2f8e0887ce2a56559c5c4c943fdac is not found.","internal_error_retriable":false,"exception_message":"The skeleton or source cache file of fa27b37a6be2f8e0887ce2a56559c5c4c943fdac is not found.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
+
 
 Generated by OpenLocalization.
