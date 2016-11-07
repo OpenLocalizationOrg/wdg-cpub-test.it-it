@@ -1,26 +1,11 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [wdg-cpub-test\ndolci2\publish\acquisitions-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/acquisitions-report.md) | InSyncHandedBackSuccess | [Details](#cbf20fe737d63f367a571e2243e9855803897d821731)
 
 ## Item Details
-##### <a name='cbf20fe737d63f367a571e2243e9855803897d821731'></a> Source: [wdg-cpub-test\ndolci2\publish\acquisitions-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/acquisitions-report.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [wdg-cpub-test\ndolci2\publish\acquisitions-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.it-it/blob/e6e93f9715b6bcab13e14fb250c3f30a8d752fd1/wdg-cpub-test/ndolci2/publish/acquisitions-report.md)
-* Handoff File: [acquisitions-report.36511153b832c45e8a44d7b8333cbcf532ffae5c.it-it.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/fddba29598d86621ee719d1c1ac55eda33f0ef16/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.it-it/master/acquisitions-report.36511153b832c45e8a44d7b8333cbcf532ffae5c.it-it.xlf)
-* Handoff Datetime: 2016-10-27 12:33:15
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [acquisitions-report.36511153b832c45e8a44d7b8333cbcf532ffae5c.it-it.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handback-test/blob/bafc603a9558b18610fbbbe43c36e086434a9ce0/ol-handback/OpenLocalizationOrg/wdg-cpub-test.it-it/master/acquisitions-report.36511153b832c45e8a44d7b8333cbcf532ffae5c.it-it.xlf)
-* Handback Datetime: 2016-11-07 22:34:12
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
