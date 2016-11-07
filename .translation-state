@@ -20268,7 +20268,7 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "2016-11-04T20:22:27.0290566Z",
+      "BilingualDateTime": "2016-11-07T22:34:39.7102713Z",
       "BilingualException": {
         "internal_error_code": "bilingual_uploading_failed",
         "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.it-it\\master\\testhtml.a5059cd2abaa4519b328ce39518d5ebfcd6b4fc0.it-it.xlf with commit: 31a2244c7affdafbc8177e43584bfe6ce8487eaf failed.",
@@ -33667,9 +33667,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.it-it\\master\\acquisitions-report.36511153b832c45e8a44d7b8333cbcf532ffae5c.it-it.xlf",
+      "BilingualFileCommit": "bafc603a9558b18610fbbbe43c36e086434a9ce0",
+      "BilingualDateTime": "2016-11-07T22:34:39.7102713Z",
       "BilingualException": null
     },
     "bc482fcea5dc2e3369ca0a474be416002156dc53": {

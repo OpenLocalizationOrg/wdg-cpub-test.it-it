@@ -23420,6 +23420,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [acquisitions-report.36511153b832c45e8a44d7b8333cbcf532ffae5c.it-it.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handback-test/blob/bafc603a9558b18610fbbbe43c36e086434a9ce0/ol-handback/OpenLocalizationOrg/wdg-cpub-test.it-it/master/acquisitions-report.36511153b832c45e8a44d7b8333cbcf532ffae5c.it-it.xlf)
 * Handback Datetime: 2016-11-07 22:34:12
+* Bilingual File: [acquisitions-report.36511153b832c45e8a44d7b8333cbcf532ffae5c.it-it.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handback-test/blob/bafc603a9558b18610fbbbe43c36e086434a9ce0/ol-handback/OpenLocalizationOrg/wdg-cpub-test.it-it/master/acquisitions-report.36511153b832c45e8a44d7b8333cbcf532ffae5c.it-it.xlf)
+* Bilingual Datetime: 2016-11-07 22:34:39
 * [Back to Top](#report-top)
 
 ##### <a name='011fa6fb219acefd41dfc58381d58991c0ac61e01732'></a> Source: [wdg-cpub-test\ndolci2\publish\ad-mediation-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/a909af6e45a07275b8b0d6092a467f0682d44a2b/wdg-cpub-test/ndolci2/publish/ad-mediation-report.md)
