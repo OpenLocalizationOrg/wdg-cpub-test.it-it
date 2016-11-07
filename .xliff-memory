@@ -9407,8 +9407,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\wdg-cpub-test.it-it\\master\\cbf20fe737d63f367a571e2243e9855803897d82.657603207aa4d4a1eddda5a4461c0fa6ab278321.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.it-it\\master\\acquisitions-report.36511153b832c45e8a44d7b8333cbcf532ffae5c.it-it.xlf",
+      "LocXliffCommit": "bafc603a9558b18610fbbbe43c36e086434a9ce0"
     },
     "wdg-cpub-test\\ndolci2\\controls-and-patterns\\tiles-and-notifications-sending-a-local-tile-notification.md.c11fafbdc1e699c804164f2000262162fcbc91a4.HT": {
       "SourceFilename": "wdg-cpub-test\\ndolci2\\controls-and-patterns\\tiles-and-notifications-sending-a-local-tile-notification.md",

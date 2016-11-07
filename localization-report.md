@@ -5,12 +5,12 @@
  -------- | ----- 
  Total Files | 2488
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 1445
+[ Handoff Success Files ](#handoff-success-list)| 1444
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 147
 [ Handback Failed Files ](#handback-failed-list)| 1
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
-[ In Sync Handback Files ](#insync-handback-success-list)| 0
+[ In Sync Handback Files ](#insync-handback-success-list)| 1
 [ Ignored Files ](#ignored-list)| 895
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -1067,7 +1067,6 @@
  [wdg-cpub-test\ndolci2\porting\wpsl-to-uwp-troubleshooting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/a909af6e45a07275b8b0d6092a467f0682d44a2b/wdg-cpub-test/ndolci2/porting/wpsl-to-uwp-troubleshooting.md) | HandedOffSuccess | [Details](#cb09ba3c6a44ec7eef1ccb9e80609352582a0e3e1728)
  [wdg-cpub-test\ndolci2\publish\about-house-ads.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/about-house-ads.md) | HandedOffSuccess | [Details](#70df7045066bdc7da9aad7673a2b94a38a54c7171729)
  [wdg-cpub-test\ndolci2\publish\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/account-types-locations-and-fees.md) | HandedOffSuccess | [Details](#b397405dae20eb34d8868ba6e6a6684d32fe90761730)
- [wdg-cpub-test\ndolci2\publish\acquisitions-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/acquisitions-report.md) | HandedOffSuccess | [Details](#cbf20fe737d63f367a571e2243e9855803897d821731)
  [wdg-cpub-test\ndolci2\publish\ad-mediation-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/a909af6e45a07275b8b0d6092a467f0682d44a2b/wdg-cpub-test/ndolci2/publish/ad-mediation-report.md) | HandedOffSuccess | [Details](#011fa6fb219acefd41dfc58381d58991c0ac61e01732)
  [wdg-cpub-test\ndolci2\publish\advertising-performance-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/advertising-performance-report.md) | HandedOffSuccess | [Details](#bc482fcea5dc2e3369ca0a474be416002156dc531733)
  [wdg-cpub-test\ndolci2\publish\age-ratings.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/age-ratings.md) | HandedOffSuccess | [Details](#b232b8175c163251c114b9de729ed53753b11e521734)
@@ -1625,6 +1624,9 @@
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [wdg-cpub-test\ndolci2\publish\acquisitions-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/acquisitions-report.md) | InSyncHandedBackSuccess | [Details](#cbf20fe737d63f367a571e2243e9855803897d821731)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
@@ -23409,15 +23411,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='cbf20fe737d63f367a571e2243e9855803897d821731'></a> Source: [wdg-cpub-test\ndolci2\publish\acquisitions-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/acquisitions-report.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [wdg-cpub-test\ndolci2\publish\acquisitions-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.it-it/blob/e6e93f9715b6bcab13e14fb250c3f30a8d752fd1/wdg-cpub-test/ndolci2/publish/acquisitions-report.md)
 * Handoff File: [acquisitions-report.36511153b832c45e8a44d7b8333cbcf532ffae5c.it-it.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/fddba29598d86621ee719d1c1ac55eda33f0ef16/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.it-it/master/acquisitions-report.36511153b832c45e8a44d7b8333cbcf532ffae5c.it-it.xlf)
 * Handoff Datetime: 2016-10-27 12:33:15
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [acquisitions-report.36511153b832c45e8a44d7b8333cbcf532ffae5c.it-it.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handback-test/blob/bafc603a9558b18610fbbbe43c36e086434a9ce0/ol-handback/OpenLocalizationOrg/wdg-cpub-test.it-it/master/acquisitions-report.36511153b832c45e8a44d7b8333cbcf532ffae5c.it-it.xlf)
+* Handback Datetime: 2016-11-07 22:34:12
 * [Back to Top](#report-top)
 
 ##### <a name='011fa6fb219acefd41dfc58381d58991c0ac61e01732'></a> Source: [wdg-cpub-test\ndolci2\publish\ad-mediation-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/a909af6e45a07275b8b0d6092a467f0682d44a2b/wdg-cpub-test/ndolci2/publish/ad-mediation-report.md)

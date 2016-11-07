@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "a909af6e45a07275b8b0d6092a467f0682d44a2b",
-  "LastTranslatedCommit": "d0a974f9af768775d3c15ffd4ae38673a443f269",
+  "LastTranslatedCommit": "e6e93f9715b6bcab13e14fb250c3f30a8d752fd1",
   "LastTansformerVersion": null,
   "Items": {
     "0252b866a2d0c048b6a643cd9e48e006d15cf46c": {
@@ -33655,14 +33655,14 @@
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "e6e93f9715b6bcab13e14fb250c3f30a8d752fd1",
+      "TargetFilePath": "wdg-cpub-test\\ndolci2\\publish\\acquisitions-report.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.it-it\\master\\acquisitions-report.36511153b832c45e8a44d7b8333cbcf532ffae5c.it-it.xlf",
+      "HandbackFileCommit": "bafc603a9558b18610fbbbe43c36e086434a9ce0",
+      "HandbackDateTime": "2016-11-07T22:34:12.538112Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "2016-11-07T22:34:12.538112Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
